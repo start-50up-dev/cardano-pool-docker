@@ -1,7 +1,7 @@
 {
   "name": "My Testnet Pool",
   "description": "This pool is used for the guide i created",
-  "ticker": "S50DEV",
+  "ticker": "50DEV",
   "homepage": "https://www.stakepool247.eu",
   "extended": "https://github.com/start-50up-dev/cardano-pool-docker/blob/main/s50dev-testnet.extended.json"
 }
