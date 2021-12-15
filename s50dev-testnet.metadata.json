@@ -1,0 +1,7 @@
+{
+  "name": "My Testnet Pool",
+  "description": "This pool is used for the guide i created",
+  "ticker": "S50DEV",
+  "homepage": "https://www.stakepool247.eu",
+  "extended": "https://www.stakepool247.eu/xpool-testnet.extended.json"
+}
